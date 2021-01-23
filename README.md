@@ -32,7 +32,7 @@
   <p>Oui <input type="checkbox"/></p>
   <p>Non <input type="checkbox"/></p>
   <p>Pour être plus précis : <input type="text"/></p>
-   <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Fini !</a>
+   <button><a href="https://maevebestdev.github.io/Envoyer/">Fini !</a>
 <p></p>
     <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
 <p> </p>
