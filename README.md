@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
@@ -32,7 +32,7 @@
   <p>Oui <input type="checkbox"/></p>
   <p>Non <input type="checkbox"/></p>
   <p>Pour être plus précis : <input type="text"/></p>
-  <button>Fini !</button>
+  <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Fini !</button>
       <p></p>
     <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
 <p> </p>
